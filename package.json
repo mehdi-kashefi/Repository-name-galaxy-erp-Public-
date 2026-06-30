@@ -1,0 +1,12 @@
+{
+  "exportKind": "toolsina-tool-result",
+  "toolSlug": "js-formatter",
+  "docTitle": "مرتب کردن JavaScript آنلاین — نتیجه",
+  "generatedAt": "۹ تیر ۱۴۰۵،‏ ۲۳:۴۴",
+  "rows": [
+    {
+      "label": "Javascript",
+      "value": "{\n  \n  \"name\": \"galaxy-erp\",\n  \"version\": \"1.0.0\",\n  \"main\": \"server.js\",\n  \"scripts\":  {\n    \n    \"start\": \"node server.js\"\n  }\n  ,\n  \"dependencies\":  {\n    \n    \"express\": \"^4.18.2\",\n    \"cors\": \"^2.8.5\"\n  }\n}"
+    }
+  ]
+}
